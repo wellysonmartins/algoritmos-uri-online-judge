@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 dia_inicio = input()
 hora_inicio = input()
 hora_inicio = list(map(int, hora_inicio.split(" : ")))

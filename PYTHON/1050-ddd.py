@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 ddd = int(input())
 if ddd == 61:
    print('Brasilia')

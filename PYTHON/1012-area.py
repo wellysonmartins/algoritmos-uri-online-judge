@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 a, b, c = map(float, input().split(" "))
 
 triangulo = (a * c) / 2

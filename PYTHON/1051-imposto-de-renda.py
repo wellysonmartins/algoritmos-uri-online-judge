@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 r = float(input())
 if r <= 2000.00:
     i = 0

@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 par = 0
 impar = 0
 positivo = 0

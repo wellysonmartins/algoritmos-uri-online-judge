@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 num = int(input())
 i = 1
 for i in range(num+1):

@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 num = int(input())
 
 i = 0

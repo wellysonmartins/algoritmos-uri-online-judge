@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 qtd_positivo = 0
 total = 0
 for i in range(6):

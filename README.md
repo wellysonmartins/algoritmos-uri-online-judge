@@ -1,10 +1,8 @@
 # Algoritmos resolvidos do site Uri Online Judge
 ## Evitando a maldição do Hello World hahaha
-```javascript
-function hello() {
-   const text = "Hello World!";
-   console.log(text)
-}
+```python
+def hello():
+   print("Hello World!")
 
 hello()
 ```

@@ -3,9 +3,7 @@ y = int(input())
 soma = 0
 
 if x > y:
-   aux = x
-   x = y
-   y = aux
+   x, y = y, x
 
 for i in range(x, y+1, 1):
    if i % 13 != 0:

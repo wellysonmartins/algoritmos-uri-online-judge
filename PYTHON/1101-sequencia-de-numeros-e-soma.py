@@ -2,6 +2,7 @@ while True:
    m, n = map(int, input().split(" "))
    if m <= 0 or n <= 0:
       break
+
    soma = 0
    numeros = ''
    if m > n:
